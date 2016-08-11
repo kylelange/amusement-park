@@ -9,7 +9,7 @@
 
 /*Id Selectors***********************/
 
-#rides {
+#carousel, #ship, #coaster {
   display: none;
 }
 
