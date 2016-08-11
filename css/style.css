@@ -2,12 +2,15 @@
 
 
 
+
 /*Class Selectors********************/
 
 
 
 /*Id Selectors***********************/
 
-
+#rides {
+  display: none;
+}
 
 /*Media Queries**********************/
